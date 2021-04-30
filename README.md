@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jason, an `AVP of Data Engineering` for a fintech company in Virginia.  I studied :computer: sceince and economics in :school:, and I am focused on building optimized data pipelines in `Airflow` for batch processing and `Spark Streaming` for more real-time processing. 
+I am Jason, an `Data Engineer` from Virginia.  I studied :computer: sceince and economics in :school:, and I am focused on building optimized data pipelines in `Airflow` for batch processing and `Spark Streaming` for more real-time processing. 
 
 ### About Me:
 - 🔭 I’m currently working on: `GCP` implementations and  `Data Governance`
