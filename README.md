@@ -6,7 +6,7 @@ I am Jason, an `Data Engineer` from Virginia.  I studied :computer: sceince and 
 - 🔭 I’m currently working on: `AWS` implementations of `Airflow`, `DataBricks`, `Amundsen`, `Fivetran` and `Spline`
 - 🌱 I’m currently learning: `Advanced Java`
 - 💬 Ask me about: I may have open positions    
-- 📫 How to reach me: [jasonrich85@gmail.com](jason.rich@aplaceformom.com)
+- 📫 How to reach me: [jason.rich@aplaceformom.com](jason.rich@aplaceformom.com)
 - ⚡ Fun fact: I manage the `Data Platform` for a New York/Seattle based tech company!
 
 <!--
