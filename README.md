@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jason, an `Data Engineer` from Virginia.  I studied :computer: sceince and economics in :school:, and I am focused on building optimized data pipelines in `Airflow` for batch processing and `Spark Streaming` for more real-time processing. 
+I am Jason, an `Data Engineer` from Virginia.  I studied :computer: sceince and economics in :school:, and I am focused on building optimized data pipelines in `Airflow` for batch processing and `Spark Streaming` for real-time processing. 
 
 ### About Me:
 - 🔭 I’m currently working on: `AWS` implementations of `Airflow`, `DataBricks`, `Amundsen`, `Fivetran` `dbt` and `Monte Carlo`
